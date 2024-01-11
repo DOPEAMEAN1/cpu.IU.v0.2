@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="App Engine" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="awesomeProject1" />
+    <working_directory value="$PROJECT_DIR$" />
+    <go_parameters value="$GOPATH$" />
+    <useCustomBuildTags value="true" />
+    <kind value="FILE" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$" />
+    <output_directory value="$PROJECT_DIR$/../../CPUUIBuild" />
+    <method v="2" />
+  </configuration>
+</component>
