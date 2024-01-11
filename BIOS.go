@@ -46,4 +46,3 @@ func main() {
 		fmt.Printf("Tasks completed in %v\n", elapsed)
 	}
 }
-```
